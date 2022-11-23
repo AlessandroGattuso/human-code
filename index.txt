@@ -1,0 +1,36 @@
+Problema: Caricare una foto su Instagram
+
+ Aprire la galleria foto
+ 
+ Scorrere gli albums
+    IF album è delle vacanze
+        - Seleziona l'album
+    ELSE
+        - Continuo a scorrere
+
+ Scorrere foto dell'album selezionato
+    IF ti piace la foto
+        - Seleziona la foto
+    ELSE 
+        - Continua a scorrere 
+
+ Apro il menu filtri
+  Scorro i filtri
+    IF il filtro mi piace
+      - Lo applico
+      
+    ELSE 
+      - Continuo a scorrere i filtri
+
+ Apro il menu "Condividi"
+ Scorro le applicazioni disponibili
+    IF l'app è Instagram
+      - Lo seleziono
+    ELSE
+      - Continuo a scorrere le applicazioni
+
+ Scorrro i tipi di pubblicazione
+    IF è un Post?
+      - Clicca "Pubblica"
+    Else
+      - Continua a scorrere

@@ -1,14 +1,21 @@
 Problema: Caricare una foto su Instagram
+Descrizione: Durante le vacanze ho fatto mille mila foto, 
+ora come faccio a scegliere quella giusta da caricare su Instagram? 
+I paesaggi mozzafiato che ho visitato non ne avrebbero bisogno, 
+però cercherò il filtro giusto per migliorare la luce e rendere più vividi i colori, 
+in modo che le foto rendano giustizia alla bellezza della natura
+
+INIZIO 
 
  Aprire la galleria foto
- 
- Scorrere gli albums
-    IF album è delle vacanze
+
+ Scorro gli albums
+    IF album è delle vacanze?
         - Seleziona l'album
     ELSE
         - Continuo a scorrere
 
- Scorrere foto dell'album selezionato
+ Scorro foto dell'album selezionato
     IF ti piace la foto
         - Seleziona la foto
     ELSE 
@@ -29,8 +36,10 @@ Problema: Caricare una foto su Instagram
     ELSE
       - Continuo a scorrere le applicazioni
 
- Scorrro i tipi di pubblicazione
+ Scorro i tipi di pubblicazione
     IF è un Post?
       - Clicca "Pubblica"
     Else
       - Continua a scorrere
+
+FINE
